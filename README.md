@@ -1,6 +1,7 @@
+# Welcome to My GitHub Space
 - 👋 Felicitation! My name is Fauzan Harlyanto Putra also known as @zanputra
-- 👀 I’m interested in Front End Development and Database
-- 🌱 I’m currently learning Geographical Information System, Operation System, Data Mining, Compilation Technique, Web Programming, and Mobile Programming
+- 👀 I’m interested in Data Science, Data Engineering, and Data Analysis
+- 🐍 Python is Love, Python is Life
 - 📫 reach me on fauzan.putra002@binus.ac.id
 
 <!---
